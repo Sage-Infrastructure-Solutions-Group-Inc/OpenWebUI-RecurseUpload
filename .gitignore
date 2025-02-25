@@ -1,0 +1,6 @@
+.venv/
+.idea/
+test_data/
+*.cfg
+*egg-info*
+*.pyc
